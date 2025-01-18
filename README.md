@@ -11,7 +11,7 @@ Data Collection and Processing:
 
 - Weather Data: Historical weather data, including average temperature, rainfall, and other relevant meteorological conditions, was collected for NYC from 2019 to 2022.
 - Accident Data: Traffic accident data, including the number of accidents per day and their associated severity, was obtained from official NYC traffic accident databases.
-- 
+
 Data Analysis:
 
 - The weather data was aggregated monthly to calculate average temperatures and other key weather metrics.
