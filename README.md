@@ -20,6 +20,8 @@ Both datasets were merged based on the corresponding months to compare the chang
 
 Visualization:
 
+![Weather Chart](Monthly-accidents.png)
+
 - A line graph was created to compare the monthly average temperature with the number of accidents over the years, utilizing dual y-axes to show both datasets on the same graph.
 - The effect of extreme weather conditions (e.g., high heat, heavy rain, snow) on the rate of accidents was visually highlighted.
 
