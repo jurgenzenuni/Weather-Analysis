@@ -18,12 +18,15 @@ Data Analysis:
 - Traffic accident data was grouped by month to track trends in the number of accidents.
 Both datasets were merged based on the corresponding months to compare the changes in weather conditions with accident occurrences.
 
-Visualization:
+Visualizations:
 
 ![Weather Chart](Monthly-accidents.png)
-
-- A line graph was created to compare the monthly average temperature with the number of accidents over the years, utilizing dual y-axes to show both datasets on the same graph.
-- The effect of extreme weather conditions (e.g., high heat, heavy rain, snow) on the rate of accidents was visually highlighted.
+![Weather Chart](Warmer-vs-cold.png)
+![Weather Chart](numaccidents-byweather.png)
+![Weather Chart](fog-accidents.png)
+![Weather Chart](avg-snow-accidents.png)
+![Weather Chart](avg-rain-accidents.png)
+![Weather Chart](combined-weather-top75days.png)
 
 Findings:
 
